@@ -30,11 +30,8 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 ## Todo List
 
-- [ ] Write tests for all hooks
-- [ ] Set up CI/CD pipeline
 - [ ] Publish package to npm
 
 ```
 
-Is there anything else you would like me to add or change?
 ```
