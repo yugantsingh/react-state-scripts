@@ -1,0 +1,23 @@
+{
+  "name": "@yugant-hooks/use-notification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yugantsingh/react-state-scripts.git"
+  },
+  "keywords": [
+    "react",
+    "hook"
+  ],
+  "author": "Yugant Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yugantsingh/react-state-scripts/issues"
+  },
+  "homepage": "https://github.com/yugantsingh/react-state-scripts#readme"
+}
