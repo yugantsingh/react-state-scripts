@@ -1,5 +1,5 @@
 {
-  "name": "@yugant/use-hover",
+  "name": "@yugant-hooks/use-hover",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

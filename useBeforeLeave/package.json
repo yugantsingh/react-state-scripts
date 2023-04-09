@@ -1,5 +1,5 @@
 {
-  "name": "@yugant/use-before-leave",
+  "name": "@yugant-hooks/use-before-leave",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

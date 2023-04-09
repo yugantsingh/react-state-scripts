@@ -1,5 +1,5 @@
 {
-  "name": "@yugant/use-title",
+  "name": "@yugant-hooks/use-title",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

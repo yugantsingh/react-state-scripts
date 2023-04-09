@@ -1,5 +1,5 @@
 {
-  "name": "@yugant/use-fullscreen",
+  "name": "@yugant-hooks/use-fullscreen",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

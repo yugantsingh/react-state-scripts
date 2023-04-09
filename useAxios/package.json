@@ -1,5 +1,5 @@
 {
-  "name": "@yugant/use-axios",
+  "name": "@yugant-hooks/use-axios",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

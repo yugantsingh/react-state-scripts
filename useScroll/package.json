@@ -1,5 +1,5 @@
 {
-  "name": "@yugant/use-scroll",
+  "name": "@yugant-hooks/use-scroll",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
